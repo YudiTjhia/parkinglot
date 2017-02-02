@@ -22,8 +22,8 @@ exit program, then check output.txt <br />
 #log mode
 in mylog.py <br />
 DEBUG=True<br />
-see app.log
+see app.log<br /><br />
 
 # test
-$ python test_parking_lot.py
-see app.log
+$ python test_parking_lot.py<br />
+see app.log<br />
