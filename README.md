@@ -2,22 +2,23 @@
 
 # How to run program
 
-$ python my_program.py 
-or 
-$ python my_program.py input.txt 
-or 
-$ python my_program.py input.txt > output.txt 
-see output.txt 
+$ python my_program.py <br />
+or <br />
+$ python my_program.py input.txt <br />
+or <br />
+$ python my_program.py input.txt > output.txt <br />
+see output.txt <br />
+<br />
 
-for using thread mode: (but thread in python cannot stop? i dont know why)
+for using thread mode: (but thread in python cannot stop? i dont know why)<br />
 
-$ python my_program_thread.py 
-or 
-$ python my_program_thread.py input.txt 
-or 
-$ python my_program_thread.py input.txt > output.txt 
-exit program, then check output.txt 
+$ python my_program_thread.py <br />
+or <br />
+$ python my_program_thread.py input.txt <br />
+or <br />
+$ python my_program_thread.py input.txt > output.txt <br />
+exit program, then check output.txt <br />
 
-log mode
-
-in mylog.py DEBUG=True
+#log mode
+in mylog.py <br />
+DEBUG=True<br />
