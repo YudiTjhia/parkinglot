@@ -94,7 +94,7 @@ class cmd_registry(threading.Thread):
             if cmd.parse(cmd_str)==True:                
                 self.parse_cmd_(cmd)
                 found = True
-                break;
+                break
 
         if not found:
             self.add_output("Invalid Command : " + cmd_str)

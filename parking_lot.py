@@ -292,6 +292,9 @@ class parking_lot:
         mylog.info("[Return][msg]=" +  msg)
         
         return msg + "\n"
+
+
+
                     
                 
             
